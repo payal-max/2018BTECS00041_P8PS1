@@ -1,0 +1,31 @@
+.blog{
+ 
+ display:inline;
+  }.all_articles {
+  margin: 0;
+  border-style: double;
+  border-width: 2px;
+
+}
+
+.all_articles > h1, .aa {
+  margin: 5px;
+  padding: 5px;
+}
+.kk > h1, .aa {
+  margin: 5px;
+  padding: 5px;
+}
+
+.aa > h2, p {
+  margin: 4px;
+  font-size: 90%;
+}
+.font_size{
+	font-size: 16.5px;
+}
+.block{
+	font-size:18px;
+	color:#008000;
+	
+}
